@@ -4,4 +4,4 @@ This is the first HTML email I created when I was just starting to learn by foll
 
 It was built by using HTML tables and inline CSS, it does not contain Media Queries however the design is responsive. This email might have compatibility issues with some email clients, so I focused on making better emails after this one.
  
-I have posted the code on: https://github.com/andreyjmnz
+I see a preview of the email and more projects on: https://www.behance.net/andreyjimenez
